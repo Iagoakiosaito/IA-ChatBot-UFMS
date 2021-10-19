@@ -24,7 +24,7 @@ import pandas as pd
 import numpy as np
 
 #Tratamento do data set
-url = "https://drive.google.com/file/d/164UcihaB7xOCcrH9Gv0_TjSG4qUpi7a7/view?usp=sharing"
+url = "https://raw.githubusercontent.com/Iagoakiosaito/IA-ChatBot-UFMS/main/Chatter-DB.csv"
 df=pd.read_csv(url)
 df = df[df['Orador'].notna()]
 df = df[df['Sentença'].notna()]
