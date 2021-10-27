@@ -480,3 +480,67 @@ Orador,Sentença,Intenção
 <,Não,Finalizar
 >,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
 <,Cartão de crédito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Q produtos vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,Um caderno,Pedido
+>,Algo mais?,
+<,Quero 1 caderno,Pedido
+>,Algo mais?,
+<,Quero vinte cadernos,Pedido
+>,Algo mais?,
+<,Vinte cadernos,Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de crédito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Q produtos vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,Quero um caderno,Pedido
+>,Algo mais?,
+<,Quero 20 borrachas,Pedido
+>,Algo mais?,
+<,Quero vinte borrachas,Pedido
+>,Algo mais?,
+<,Vinte cadernos,Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,crédito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Q produtos vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,Quero um caderno,Pedido
+>,Algo mais?,
+<,Quero 20 borrachas,Pedido
+>,Algo mais?,
+<,Quero vinte borrachas,Pedido
+>,Algo mais?,
+<,Vinte cadernos,Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,credito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Q produtos vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,Quero um caderno,Pedido
+>,Algo mais?,
+<,Me ve quatorze canetas,Pedido
+>,Algo mais?,
+<,Me ve 14 canetas,Pedido
+>,Algo mais?,
+<,Vinte cadernos,Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Credito,Forma_pagamento
