@@ -1,0 +1,546 @@
+Orador,Sentença,Intenção
+<,Bom dia,Saudação
+>,"Olá, seja bem vindo, o que deseja?",
+<,Quero ver todos os produtos,Produtos
+>,[Lista todos os produtos em estoque],
+<,"Quero uma caneta e dois cadernos, por favor",Pedido
+>,"Claro, o que mais?",
+<,"Nada, quero finalizar a compra",Finalizar
+>,"Certo, o preço final fica R$XX,XX",
+,,
+<,Bom dia!,Saudação
+>,"Olá, seja bem vindo, o que deseja?",
+<,"Quero uma caneta, 5 lápis e dois cadernos",Pedido
+>,"Claro, o que mais?",
+<,"Quero uma caneta e dois cadernos, por favor",Pedido
+>,"Claro, o que mais?",
+<,Nada,Finalizar
+>,"Ok, o preço final fica R$XX,XX",
+,,
+<,Boa tarde,Saudação
+>,"Olá, seja bem vindo, o que deseja?",
+<,"Quero uma caneta, 5 lápis e dois cadernos",Pedido
+>,"Claro, o que mais?",
+<,"Quero uma caneta e dois cadernos, por favor",Pedido
+>,"Claro, o que mais?",
+<,Finalizar compra,Finalizar
+>,"Ok, o preço final fica R$XX,XX",
+,,
+<,Boa tarde!,Saudação
+>,"Olá, seja bem vindo, o que deseja?",
+<,"Olá, quero uma caneta, 5 lápis e dois cadernos",Pedido
+>,"Claro, o que mais?",
+<,"Quero uma caneta e dois cadernos, por favor",Pedido
+>,"Claro, o que mais?",
+<,Quero finalizar compra,Finalizar
+>,"Ok, o preço final fica R$XX,XX",
+,,
+<,Boa noite,Saudação
+>,"Olá, seja bem vindo, o que deseja?",
+<,"Olá, quero 1 caneta, cinco lápis e 2 cadernos",Pedido
+>,"Claro, o que mais?",
+<,"Quero uma caneta e dois cadernos, por favor",Pedido
+>,"Claro, o que mais?",
+<,Quero finalizar compra,Finalizar
+>,"Ok, o preço final fica R$XX,XX",
+,,
+<,Boa noite!,Saudação
+>,"Olá, seja bem vindo, o que deseja?",
+<,"Olá, quero uma caneta, cinco lápis e dois cadernos",Pedido
+>,"Claro, o que mais?",
+<,"Quero uma caneta e dois cadernos, por favor",Pedido
+>,"Claro, o que mais?",
+<,Quero finalizar compra,Finalizar
+>,"Ok, o preço final fica R$XX,XX",
+,,
+<,Salve,Saudação
+>,"Olá, seja bem vindo, o que deseja?",
+<,"Olá, quero 1 caneta, 5 lápis e 2 cadernos",Pedido
+>,"Claro, o que mais?",
+<,"Quero 1 caneta e dois cadernos, por favor",Pedido
+>,"Claro, o que mais?",
+<,Quero finalizar compra,Finalizar
+>,"Ok, o preço final fica R$XX,XX",
+,,
+<,Salve!,Saudação
+>,"Olá, seja bem vindo, o que deseja?",
+<,"Olá, quero 1 caneta, 5 lápis e 2 cadernos",Pedido
+>,"Claro, o que mais?",
+<,"Quero uma caneta e 2 cadernos, por favor",Pedido
+>,"Claro, o que mais?",
+<,Quero finalizar compra,Finalizar
+>,"Ok, o preço final fica R$XX,XX",
+,,
+<,Salv,Saudação
+>,"Olá, seja bem vindo, o que deseja?",
+<,"Olá, quero 1 caneta, 5 lápis e 2 cadernos",Pedido
+>,"Claro, o que mais?",
+<,"Quero 1 caneta e 2 cadernos, por favor",Pedido
+>,"Claro, o que mais?",
+<,Quero finalizar compra,Finalizar
+>,"Ok, o preço final fica R$XX,XX",
+,,
+<,Salv!,Saudação
+>,"Seja bem vindo, o que deseja?",
+<,Quais produtos você tem em estoque,Produtos
+>,[Lista todos os produtos em estoque],
+<,"Ok, obrigado!",Finalizar
+>,Por nada!,
+,,
+<,Koe,Saudação
+>,"Seja bem vindo, o que deseja?",
+<,Gostaria de fazer um orçamento com vocês,Produtos
+>,"Certo!
+[Lista todos os produtos em estoque]",
+<,"Ok, obrigado!",Finalizar
+>,Por nada!,
+,,
+<,Koe!,Saudação
+>,"Olá, seja bem vindo, o que deseja?",
+<,Gostaria de fazer um orçamento com vocês,Produtos
+>,[Lista todos os produtos em estoque],
+<,Quero comprar 5 canetas e vinte cadernos,Pedido
+>,"Certo, deseja algo mais?",
+<,"Sim, quero mais 8 lápis e 20 caixas de clipe",Pedido
+>,"Certo, deseja algo mais?",
+<,"Não, desejo finalizar a compra",Finalizar
+>,Por nada!,
+,,
+,,
+>,"Olá, seja bem vindo, o que deseja?",
+<,Gostaria de fazer um orçamento com vocês,Produtos
+>,[Lista todos os produtos em estoque],
+<,Quero comprar cinco canetas e 20 cadernos,Pedido
+>,"Certo, deseja algo mais?",
+<,"Sim, quero mais 8 lápis e 20 caixas de clipe",Pedido
+>,"Certo, deseja algo mais?",
+<,"Não, desejo finalizar a compra",Finalizar
+>,Por nada!,
+,,
+>,"Olá, seja bem vindo, o que deseja?",
+<,Gostaria de fazer um orçamento com vocês,Produtos
+>,[Lista todos os produtos em estoque],
+<,Quero comprar cinco canetas e 20 cadernos,Pedido
+>,"Certo, deseja algo mais?",
+<,"Sim, quero mais oito lápis e vinte caixas de clipe",Pedido
+>,"Certo, deseja algo mais?",
+<,"Não, desejo finalizar a compra",Finalizar
+>,Por nada!,
+,,
+>,"Olá, seja bem vindo, o que deseja?",
+<,Gostaria de fazer um orçamento com vocês,Produtos
+>,[Lista todos os produtos em estoque],
+<,Quero comprar cinco canetas e 20 cadernos,Pedido
+>,"Certo, deseja algo mais?",
+<,"Sim, quero mais oito lápis e 20 caixas de clipe",Pedido
+>,"Certo, deseja algo mais?",
+<,"Não, desejo finalizar a compra",Finalizar
+>,Por nada!,
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Gostaria de fazer um orçamento com vocês,Produtos
+>,"Certo!
+[Lista todos os produtos em estoque]",
+<,"Ok, obrigado!",Finalizar
+>,Por nada!,
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Gostaria de fazer um orçamento com vocês,Produtos
+>,"Certo!
+[Lista todos os produtos em estoque]",
+<,"Ok, obrigado!",Finalizar
+>,Por nada!,
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Quais produtos vocês têm aí?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma caneta e 23 borrachas, por favor",Pedido
+>,Algo mais?,
+<,"Sim, 1 lapiseira e 6 cadernos",Pedido
+>,Deseja adicionar algo?,
+<,"Não, quanto que fica?",Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Dinheiro,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Quais produtos vocês têm aí?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma caneta e 23 borrachas, por favor",Pedido
+>,Algo mais?,
+<,"Sim, 1 lapiseira e 6 cadernos",Pedido
+>,Deseja adicionar algo?,
+<,"Não, quanto que fica?",Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de crédito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Quais produtos vocês têm aí?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma caneta e 23 borrachas, por favor",Pedido
+>,Algo mais?,
+<,"Sim, 1 lapiseira e 6 cadernos",Pedido
+>,Deseja adicionar algo?,
+<,"Não, quanto que fica?",Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de débito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Quais produtos vocês têm aí?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma caneta e 23 borrachas, por favor",Pedido
+>,Algo mais?,
+<,Não,Pedido
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Dinheiro,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Quais produtos vocês têm aí?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma caneta e 23 borrachas, por favor",Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de crédito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Quais produtos vocês têm aí?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma caneta e 23 borrachas, por favor",Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de débito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Que produtos vocês tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma caneta e 23 borrachas, por favor",Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Dinheiro,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Qq vcs tem aí de produto?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma caneta e 23 borrachas, por favor",Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Dinheiro,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Q produtos vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma caneta e 23 borrachas, por favor",Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de crédito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Que produtos vocês tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma caneta e 23 borrachas, por favor",Pedido
+>,Algo mais?,
+<,N,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de débito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Qq vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma caneta e 23 borrachas, por favor",Pedido
+>,Algo mais?,
+<,N,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Dinheiro,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Qq vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma caneta e 23 borrachas, por favor",Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de crédito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Qq vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma caneta e 23 borrachas, por favor",Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de débito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Qq vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma, por favor",Pedido
+>,"Perdão, não entendi o que você quis dizer, pode repetir?",
+<,"Uma caneta, por favor",Pedido
+>,"Certo, deseja algo mais?",
+<,Cinco lápis e trinta cadernos,Pedido
+>,"Certo, algo mais?",
+<,"N, qnt que fica isso tudo?",Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de débito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Qq vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"Uma, por favor",Pedido
+>,"Perdão, não entendi o que você quis dizer, pode repetir?",
+<,"Uma caneta, por favor",Pedido
+>,"Certo, deseja algo mais?",
+<,Cinco lápis e trinta cadernos,Pedido
+>,"Certo, algo mais?",
+<,Qnt que fica essa brincadeira??,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de débito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Qq vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"cinquenta lapiseiras, por favor",Pedido
+>,"Certo, deseja algo mais?",
+<,"Uma caneta, por favor",Pedido
+>,"Certo, deseja algo mais?",
+<,Cinco lápis e trinta cadernos,Pedido
+>,"Certo, deseja algo mais?",
+<,Cinco lápis e quarenta borrachas,Pedido
+>,"Certo, algo mais?",
+<,quanto que fica isso tudo?,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de débito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Qq vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"7 EVA, por favor",Pedido
+>,"Certo, deseja algo mais?",
+<,"Uma caneta, por favor",Pedido
+>,"Certo, deseja algo mais?",
+<,Cinco lápis e trinta cadernos,Pedido
+>,"Certo, algo mais?",
+<,quanto que fica?,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de débito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Q produtos vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"7 EVA, por favor",Pedido
+>,"Certo, deseja algo mais?",
+<,"Uma caneta, por favor",Pedido
+>,"Certo, deseja algo mais?",
+<,Cinco lápis e trinta cadernos,Pedido
+>,"Certo, algo mais?",
+<,quanto que fica?,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de débito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Qq vcs tem de produto em estoque ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,"7 EVA, por favor",Pedido
+>,"Certo, deseja algo mais?",
+<,"Uma caneta, por favor",Pedido
+>,"Certo, deseja algo mais?",
+<,vinte cadernos,Pedido
+>,"Certo, algo mais?",
+<,quanto que fica?,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Dinheiro,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,"Quero fazer um orçamento, quais são todos seus produtos?",Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+,,
+>,"Seja bem vindo, o que deseja?",
+<,"Quero fazer um orçamento, quero ver seus produtos",Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Orçamento,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,Obrigado,Finalizar
+>,Por nada!,
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Quero fazer um orçamento,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,Vlw,Finalizar
+>,Por nada!,
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Quero um orçamento,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Quero um orçamento,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,Tmj,Finalizar
+>,Por nada!,
+,,
+>,"Seja bem vindo, o que deseja?",
+<,"Quero um orçamento, quanto ficaria 5 canetas?",Produtos
+>,"Fica R$XX,XX",
+<,"Só isso mesmo, obrigado",Finalizar
+>,Por nada!,
+,,
+>,"Seja bem vindo, o que deseja?",
+<,"Quero um orçamento, quanto ficaria cinco canetas?",Produtos
+>,"Ficaria R$XX,XX",
+<,Só isso mesmo,Finalizar
+>,Por nada!,
+,,
+>,"Seja bem vindo, o que deseja?",
+<,"Quero um orçamento, quanto ficaria cinco canetas?",Produtos
+>,"Ficaria R$XX,XX",
+<,Só isso,Finalizar
+>,Por nada!,
+,,
+>,"Seja bem vindo, o que deseja?",
+<,"Quero um orçamento, quanto ficaria cinco canetas?",Produtos
+>,"Ficaria R$XX,XX",
+<,Obrigado,Finalizar
+>,Por nada!,
+,,
+>,"Seja bem vindo, o que deseja?",
+<,"Quero um orçamento, quanto ficaria cinco canetas?",Produtos
+>,"Ficaria R$XX,XX",
+,,
+>,"Seja bem vindo, o que deseja?",
+<,"Quero um orçamento, quanto ficaria 5 canetas?",Produtos
+>,"Ficaria R$XX,XX",
+<,Quero comprar,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Dinheiro,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,"Quero um orçamento, quanto ficaria cinco canetas?",Produtos
+>,"Ficaria R$XX,XX",
+<,Quero comprar tudo,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Débito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,"Quero um orçamento, quanto ficaria cinco canetas?",Produtos
+>,"Ficaria R$XX,XX",
+<,Gostaria de comprar,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Dinheiro,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,"Quero um orçamento, quanto ficaria cinco canetas?",Produtos
+>,"Ficaria R$XX,XX",
+<,quero um lapis,Pedido
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Dinheiro,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Q produtos vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,Um caderno,Pedido
+>,Algo mais?,
+<,1 caderno,Pedido
+>,Algo mais?,
+<,20 cadernos,Pedido
+>,Algo mais?,
+<,Vinte cadernos,Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de crédito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Q produtos vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,Um caderno,Pedido
+>,Algo mais?,
+<,Quero 1 caderno,Pedido
+>,Algo mais?,
+<,Quero vinte cadernos,Pedido
+>,Algo mais?,
+<,Vinte cadernos,Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Cartão de crédito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Q produtos vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,Quero um caderno,Pedido
+>,Algo mais?,
+<,Quero 20 borrachas,Pedido
+>,Algo mais?,
+<,Quero vinte borrachas,Pedido
+>,Algo mais?,
+<,Vinte cadernos,Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,crédito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Q produtos vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,Quero um caderno,Pedido
+>,Algo mais?,
+<,Quero 20 borrachas,Pedido
+>,Algo mais?,
+<,Quero vinte borrachas,Pedido
+>,Algo mais?,
+<,Vinte cadernos,Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,credito,Forma_pagamento
+,,
+>,"Seja bem vindo, o que deseja?",
+<,Q produtos vcs tem ai?,Produtos
+>,"É pra já!
+[Lista todos os produtos em estoque]",
+<,Quero um caderno,Pedido
+>,Algo mais?,
+<,Me ve quatorze canetas,Pedido
+>,Algo mais?,
+<,Me ve 14 canetas,Pedido
+>,Algo mais?,
+<,Vinte cadernos,Pedido
+>,Algo mais?,
+<,Não,Finalizar
+>,"O preço final fica R$XX,XX. Qual a forma de pagamento?",
+<,Credito,Forma_pagamento
