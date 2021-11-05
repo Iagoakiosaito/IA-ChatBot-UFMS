@@ -2,7 +2,7 @@ import pandas as pd
 
 
 def data_set_padrao():
-    url = "https://raw.githubusercontent.com/Iagoakiosaito/IA-ChatBot-UFMS/main/Chatter-DB.csv"
+    url = "https://raw.githubusercontent.com/Iagoakiosaito/DataSet-IA/main/Chatter-DB.csv"
     df=pd.read_csv(url)
     df = df[df['Orador'].notna()]
     df = df[df['Sentença'].notna()]

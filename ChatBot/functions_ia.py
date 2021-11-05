@@ -13,7 +13,6 @@ def identificador_intencao(text, x, y):
     clf = loo_dt_def(x, y)
     #model = loo_knn_def(x, y)
     
-    #, "\nKNN: ", model.predict(text)
     predict = clf.predict(text)
 
     return predict
